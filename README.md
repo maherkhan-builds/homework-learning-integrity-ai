@@ -128,15 +128,17 @@ Step 2: Try solving the first part yourself.
 Hint: Consider how the variable changes when...
 Checkpoint: Explain why you chose this formula.
 Reflection: What did you learn from this approach?
-## Tech Stack
 
-- React  
-- TypeScript  
-- Gemini (reasoning + structured prompt layer)  
-- Google AI Studio  
-- Google Stitch (UI prototyping)  
-- Material Design  
+## Tools Used
 
+•	Gemini + aistudio.google (ideation+Prompting)
+•	Google Stitch (UI design and prototyping)
+•	Google Opal (UI design and prototyping)
+•	Replit (UI design and prototyping)
+•	Base44 (UI design and prototyping)
+•	Google AI Studio (Gemini 2.5 Flash)
+•	React + TypeScript
+•	Material Design principles
 ---
 
 ## Time to Build
