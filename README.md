@@ -139,6 +139,7 @@ Reflection: What did you learn from this approach?
 •	Google AI Studio (Gemini 2.5 Flash)
 •	React + TypeScript
 •	Material Design principles
+
 ---
 
 ## Time to Build
